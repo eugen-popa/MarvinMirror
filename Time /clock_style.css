@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+.time {
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 48px;
+    text-align: center;
+}
